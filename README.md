@@ -1,10 +1,19 @@
+#Brett Berglund
+
+**Backend Developer** · CS Graduate · Builds APIs, microservices and automated tools
+
+I build backend systems: REST APIs, microservices, and infrastructure tooling with a focus on
+scalable architecture, and fast systems.
+Recently graduated from UNT with a B.S. in Computer science
+
 ---
-# Brett Berglund
 
-**Backend Developer** · CS Graduate · Builder of APIs, microservices, and automated tools
+## Currently
 
-I build backend systems — REST APIs, microservices, and infrastructure tooling — with a focus on scalable architecture and efficient speeds. 
-Recently graduated from UNC with a B.S. in Computer Science and a capstone project awarded Best CS Project, Spring 2025.
+- Targeting **junior backend and software engineering** roles
+- Open to remote, hybrid, or on-site (NYC) opportunities in the US
+- [LinkedIn](https://www.linkedin.com/in/brettberglund/)
+
 
 ---
 
@@ -50,25 +59,3 @@ collaboratively in an Agile team with an external sponsor.
 **Certs:** Docker Foundations Professional Certificate (Docker, Inc. — Apr 2026)
 
 ---
-
-## Currently
-
-- Targeting **junior backend and software engineering** roles
-- Open to remote, hybrid, or on-site (NYC) opportunities in the US
-- [LinkedIn](https://www.linkedin.com/in/brettberglund/)
-
-
-<!--
-**brettberglund/brettberglund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
