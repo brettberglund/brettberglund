@@ -19,7 +19,13 @@ Recently graduated from UNT with a B.S. in Computer science
 
 ## Projects
 
-### [Network Monitor](https://github.com/brettberglund/network-monitor/tree/dev) - Currently working on
+### [Security Header Checker](https://github.com/brettberglund/security-headers-checker/tree/main) - In Development
+CLI that accepts urls and tests the HTTP security headers for vulnerabilities and generates a report.
+Service features and GitHub Actions Tool in development.
+
+> **Stack:** Rust
+
+### [Network Monitor](https://github.com/brettberglund/network-monitor/tree/dev) - In Development
 Real-time network traffic analysis dashboard. Rust backend communicates via gRPC and REST, with PostgreSQL for
 persistence and Redis for caching. Containerized with Docker and deployed via GitHub Actions CI/CD.
 
