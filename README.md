@@ -10,7 +10,7 @@ Recently graduated from UNT with a B.S. in Computer science
 
 ## Currently
 
-- Targeting **junior backend and software engineering** roles
+- Targeting **Backend and Software Developer** roles
 - Open to remote, hybrid, or on-site (NYC) opportunities in the US
 - [LinkedIn](https://www.linkedin.com/in/brettberglund/)
 
