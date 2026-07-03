@@ -31,6 +31,18 @@ persistence and Redis for caching. Containerized with Docker and deployed via Gi
 
 > **Stack:** Rust · gRPC · REST · PostgreSQL · Redis · Docker · GitHub Actions
 
+### [Rhizoma](https://github.com/brettberglund/Rhizoma-Market) - In Development (almost complete)
+Prediction market on Solana built using Anchor. It runs onchain and funds sit on a program owned vault that
+can't be moved until payout.
+
+> **Stack:** Rust · Typescript · Solana · Anchor
+
+### [PdfGenerator](https://github.com/brettberglund/pdf-generator)
+Rust backend service where users can create jobs to convert files into PDF format. Uses a job queue system
+to buffer and complete jobs asynchronously.
+
+> **Stack:** Rust · Actix-web · Sqlx · Docker
+
 ---
  
 ### [SpringBoot Microservices](https://github.com/brettberglund/springboot-microservices)
