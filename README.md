@@ -31,7 +31,7 @@ persistence and Redis for caching. Containerized with Docker and deployed via Gi
 
 > **Stack:** Rust · gRPC · REST · PostgreSQL · Redis · Docker · GitHub Actions
 
-### [Rhizoma](https://github.com/brettberglund/Rhizoma-Market) - In Development (almost complete)
+### [Rhizoma Market](https://github.com/brettberglund/Rhizoma-Market)
 Prediction market on Solana built using Anchor. It runs onchain and funds sit on a program owned vault that
 can't be moved until payout.
 
