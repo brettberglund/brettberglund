@@ -23,7 +23,7 @@ Recently graduated from UNT with a B.S. in Computer science
 CLI that accepts urls and tests the HTTP security headers for vulnerabilities and generates a report.
 Service features and GitHub Actions Tool in development.
 
-> **Stack:** Rust
+> **Stack:** Rust · Python · FastAPI · Django · Postgres
 
 ### [Network Monitor](https://github.com/brettberglund/network-monitor/tree/dev) - In Development
 Real-time network traffic analysis dashboard. Rust backend communicates via gRPC and REST, with PostgreSQL for
