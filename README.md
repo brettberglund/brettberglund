@@ -11,7 +11,7 @@ Recently graduated from UNT with a B.S. in Computer science
 ## Currently
 
 - Targeting **Backend and Software Developer** roles
-- Open to remote, hybrid, or on-site (NYC) opportunities in the US
+- Open to remote, hybrid, or on-site opportunities in the US
 
 ---
 
@@ -22,7 +22,7 @@ Real-time network traffic analysis dashboard. Rust backend communicates via gRPC
 persistence and Redis for caching. Containerized with Docker and deployed via GitHub Actions CI/CD. Full backend
 being developed in private branch.
 
-> **Stack:** Rust · TypeScript · gRPC · REST · PostgreSQL · Redis · Docker · GitHub Actions
+> **Stack:** Rust · TypeScript · Reactt · gRPC · REST · PostgreSQL · Redis · Docker · GitHub Actions
 
 ### [Security Header Checker](https://github.com/brettberglund/security-headers-checker/tree/main) - In Development
 CLI that accepts urls and tests the HTTP security headers for vulnerabilities and generates a report.
